@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasin Uysal.
 - 👀 I’m interested in React, frontend development, JS.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Material UI.
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 uysal.e.yasin@gmail.com
 
